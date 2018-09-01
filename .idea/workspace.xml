@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7c088d9-72c7-414c-9d5b-0651a8462472" name="Default" comment="" />
+    <list default="true" id="e7c088d9-72c7-414c-9d5b-0651a8462472" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/notes-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/notes-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,11 +19,7 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="notes.js" pinned="false" current-in-tab="false">
@@ -36,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/notes-data.json">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="136" selection-start-column="136" selection-end-column="136" />
+              <caret column="170" selection-start-column="170" selection-end-column="170" />
             </state>
           </provider>
         </entry>
@@ -67,6 +66,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -105,6 +107,7 @@
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -170,12 +173,12 @@
       <updated>1535677672281</updated>
       <workItem from="1535677673745" duration="2641000" />
       <workItem from="1535758935875" duration="5382000" />
-      <workItem from="1535767254383" duration="4601000" />
+      <workItem from="1535767254383" duration="5823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12624000" />
+    <option name="totallyTimeSpent" value="13846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="697" height="735" extended-state="0" />
@@ -185,7 +188,7 @@
       <window_info anchor="bottom" id="TODO" order="9" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Run" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.35678393" />
@@ -259,7 +262,7 @@
     <entry file="file://$PROJECT_DIR$/notes-data.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="136" selection-start-column="136" selection-end-column="136" />
+          <caret column="170" selection-start-column="170" selection-end-column="170" />
         </state>
       </provider>
     </entry>
@@ -271,11 +274,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
